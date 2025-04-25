@@ -7,5 +7,5 @@ This project uses linear regression to predict housing prices based on various f
 ## 📂 Project Structure
 
 Dataset: hdb-2012-to-2014
-Code: Rcode
+Code: R_code.R
 Report & Results: Linear Regression Code.pdf
