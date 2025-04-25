@@ -1,6 +1,6 @@
 ##### ST1131 ASSIGNMENT 2 #####
 getwd()
-table = read.csv("/Users/joashlim/Desktop/ST1131/Assignment 2/LATEST/hdb-2012-to-2014.csv")
+table = read.csv("hdb-2012-to-2014.csv")
 attach(table)
 summary(table)
 
